@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/asaadjaber/repos/Scala/Scala/target/scala-3.3.1/scala_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/asaadjaber/repos/Scala/Scala/target/scala-3.3.1/classes/main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/asaadjaber/repos/Scala/Scala/target/scala-3.3.1/classes/main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/asaadjaber/repos/Scala/Scala/target/scala-3.3.1/classes/main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/asaadjaber/repos/Scala/Scala/target/scala-3.3.1/classes/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/asaadjaber/repos/Scala/Scala/target/scala-3.3.1/classes/main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
